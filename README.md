@@ -9,5 +9,7 @@ Users can join groups with a unique username, and send messages to members of th
 ![image of login](https://drive.google.com/uc?export=view&id=1EqBL7VwogpRlyzwEYn0F--zW7Yr_xtHI)
 ![image of login](https://drive.google.com/uc?export=view&id=1wuBZX26ra1JnZhlbbctlRl9rQuHbcrz3)
 
-client deployed to Netlify, server deployed to Heroku
+client deployed to Netlify, server deployed to Heroku<br>
+IDE: Webstorm
+
 link: https://www.chat.songchen.space
