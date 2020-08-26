@@ -1,5 +1,6 @@
 # react-express-socket-chat
 a real-time chat app made with react.js as client, express.js as server and socket.io.
+deployed link: https://www.chat.songchen.space
 
 Socket.io client fires events from client to sociket.io server, server listens for the events, and processes the events, and fires back a event, while the client is also listening for events from the server.
 
@@ -12,4 +13,5 @@ Users can join groups with a unique username, and send messages to members of th
 client deployed to Netlify, server deployed to Heroku<br>
 IDE: Webstorm
 
-link: https://www.chat.songchen.space
+More info: This is the project,I have completed with knowledge from [React-The Complete Guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) and tutorial from [youtube](https://www.youtube.com/watch?v=ZwFA3YMfkoc), along with a customization of like functionality that I independently designed with reactJS, ExpressJS, and Socket.io.
+
